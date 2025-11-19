@@ -2,5 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://CoreGold.github.io/
-PR1/)
+- [Публичная страница на GitHub Pages](https://coregold.github.io/Fronted_PR1)
