@@ -307,6 +307,7 @@ button {
 
 .collection__title {
   text-align: left;
+  margin-bottom: 10px;
 }
 
 .collection--popular {
